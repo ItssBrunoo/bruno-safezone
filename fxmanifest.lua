@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
-description 'SafeZone System for ESX Legacy'
+author 'Its_Bruno'
+description 'SafeZone System'
 version '1.0.0'
 
 shared_scripts {

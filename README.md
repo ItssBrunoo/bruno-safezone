@@ -1,7 +1,5 @@
 # bruno-safezone
 
-# FiveM SafeZone System
-
 A comprehensive SafeZone system for FiveM servers that allows server administrators to create and manage safe areas where player interactions can be controlled and restricted.
 
 ## Features
